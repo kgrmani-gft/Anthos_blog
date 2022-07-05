@@ -2,3 +2,5 @@
 *.backup
 .terraform
 *.hcl
+.terraform.lock.hcl
+*.tfvars
